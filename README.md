@@ -16,13 +16,9 @@ https://2021.worldhaptics.org/sic/
 
 <img alt="Name's picture" src="images/portraits/Name.jpg" width="100px" height="auto"/>
 
-Name is ... <!-- insert biography -->
+I am a MSc student at the Shared Reality Lab, under the supervsion of Dr.Jeremy Cooperstock. My research interests are in the feilds of multimodal haptic interactions and accessible technolgy. My undergraduate degree is in Mechatronics Engineering  <!-- insert biography -->
  
 Find more information on their <!-- update pronouns--> [website](https://).
-
-<!-- ### Advisor -->
-
-<!-- Uncomment this section title and add a #### Name subsection if your team appointed an advisor. -->
 
 #### Linnea Kirby
 
@@ -101,6 +97,10 @@ We propose to design a tactile display for nature-focused institutions that can 
 #### Hardware
 
 <!-- Describe your hardware components -->
+
+Syntacts 8 channel board, vibrotactile actuators, Raspberry Pi, Proximity Sensors
+
+**insert picture here of hardware used **
 
 ##### Sensors wiring
 
