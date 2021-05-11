@@ -14,9 +14,9 @@ https://2021.worldhaptics.org/sic/
 
 #### Sri Gannavarapu
 
-<img alt="Name's picture" src="images/portraits/Name.jpg" width="100px" height="auto"/>
+<img alt="Name's picture" src="images/portraits/Sri.jpg" width="100px" height="auto"/>
 
-I am a MSc student at the Shared Reality Lab, under the supervsion of Dr.Jeremy Cooperstock. My research interests are in the feilds of multimodal haptic interactions and accessible technolgy. My undergraduate degree is in Mechatronics Engineering  <!-- insert biography -->
+Is currently a MSc student at the Shared Reality Lab, under the supervsion of Dr.Jeremy Cooperstock. Sri's research interests are in the feilds of multimodal haptic interactions and accessible technolgy. He recevied an B.Eng in Mechatronics Engineering.  <!-- insert biography -->
  
 Find more information on their <!-- update pronouns--> [website](https://).
 
