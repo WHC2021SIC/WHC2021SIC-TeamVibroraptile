@@ -28,7 +28,7 @@ Linnea Kirby is a self-proclaimed "Contemporary Renaissance Person," with intere
 
 Throughout her work, Linnea has explored a range of topics, often imbued with dry wit, including perception of self and of the world, interaction between objects and space, and the bounds of femininity and androgyny.
 
-Other talents include over nine years of classical training in ballet and piano, a conversational knowledge of French, the ability to tie cherry stems into knots with her tongue (not as cool as it sounds), and the ability to put on a pair of sunglasses with her feet (as cool as it sounds).
+Other talents include over nine years of classical training in ballet and piano, a conversational knowledge of French, the ability to shoot an Asiatic recurve bow (mostly accurately), and a mostly green thumb (she's currently learning about propagation, but her cats keep trying to steal the baby plants).
  
 Find more information on her [website](https://linneakirby.com/).
 
