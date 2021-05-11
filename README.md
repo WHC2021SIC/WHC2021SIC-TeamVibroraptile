@@ -1,4 +1,4 @@
-# WHC2021SIC Project Template
+# WHC2021SIC Vibroraptile
 
 <!-- Replace Project Template by your team name in title and description -->
 
@@ -22,11 +22,15 @@ Find more information on their <!-- update pronouns--> [website](https://).
 
 #### Linnea Kirby
 
-<img alt="Name's picture" src="images/portraits/Name.jpg" width="100px" height="auto"/>
+<img alt="Name's picture" src="images/portraits/LinneaKirby.jpg" width="100px" height="auto"/>
 
-Name is ... <!-- insert biography -->
+Linnea Kirby is a self-proclaimed "Contemporary Renaissance Person," with interests ranging from the creative to the analytical. She is currently an Electrical and Computer Engineering Masters student at McGill University in Jeremy Cooperstock's Shared Reality Lab. She received a B.A. in Psychology with a concentration in Cognitive Sciences and a minor in Computer Science from Oberlin College in 2016 and graduated from a year of the New England Center for Circus Arts (NECCA)’s PROTrack program in 2018, where she majored in contortion and unofficially minored in Chinese Pole. She is now constantly devising ways of integrating her passion for both technology and circus arts.
+
+Throughout her work, Linnea has explored a range of topics, often imbued with dry wit, including perception of self and of the world, interaction between objects and space, and the bounds of femininity and androgyny.
+
+Other talents include over nine years of classical training in ballet and piano, a conversational knowledge of French, the ability to tie cherry stems into knots with her tongue (not as cool as it sounds), and the ability to put on a pair of sunglasses with her feet (as cool as it sounds).
  
-Find more information on their <!-- update pronouns--> [website](https://).
+Find more information on her [website](https://linneakirby.com/).
 
 <!-- ### Advisor -->
 
