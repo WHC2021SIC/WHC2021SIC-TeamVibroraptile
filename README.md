@@ -17,6 +17,8 @@ https://2021.worldhaptics.org/sic/
 <img alt="Name's picture" src="images/portraits/sri.jpg" width="100px" height="auto"/>
 
 Is currently a MSc student at the Shared Reality Lab, under the supervsion of Dr.Jeremy Cooperstock. Sri's research interests are in the feilds of multimodal haptic interactions and accessible technolgy. He recevied an B.Eng in Mechatronics Engineering.  <!-- insert biography -->
+
+Affiliation: McGill University
  
 Find more information on their <!-- update pronouns--> [website](https://).
 
@@ -29,6 +31,8 @@ Linnea Kirby is a self-proclaimed "Contemporary Renaissance Person," with intere
 Throughout her work, Linnea has explored a range of topics, often imbued with dry wit, including perception of self and of the world, interaction between objects and space, and the bounds of femininity and androgyny.
 
 Other talents include over nine years of classical training in ballet and piano, a conversational knowledge of French, the ability to shoot an Asiatic recurve bow (mostly accurately), and a mostly green thumb (she's currently learning about propagation, but her cats keep trying to steal the baby plants).
+
+Affiliation: McGill University
  
 Find more information on her [website](https://linneakirby.com/).
 
@@ -88,11 +92,9 @@ Once this documentation becomes very comprehensive, the main file can be split i
 <!-- tocstop -->
 
 ## Abstract
-A vibrotactile display that maps auditory signals from a nature exhibit to give visitors the ability to not only see and hear, but also feel otherwise untouchable animals.
-## Introduction
-
-Natural history museums, zoos, aquariums, and other nature-focused institutions allow the public to observe and learn about animals in all their forms except one major one: touch. While petting zoos (and touch tanks at aquariums) exist, they only allow the public to touch domesticated and otherwise harmless animals. While the taxidermied animals and animal skeletons at natural history museums may not be dangerous, they are fragile and cannot withstand significant and prolonged interaction. Touch is a crucial modality when designing a tool that is inclusive for all populations, including those with disabilities or impairments. Furthermore, young visitors who cannot read and visitors who do not speak the language used in the museum are unable to gain insight from written information and so can benefit from the addition of haptics. 
-We propose to design a tactile display for nature-focused institutions that can add another dimensionality through touch to increase the interactivity of an exhibit. We foresee this display taking one of two forms: 1) a stationary installation similar to a description plaque, or 2) a mobile device that changes the feedback based on which exhibit the user is experiencing. As both form factors are feasible we will be testing them out in iterations using a human-computer interaction focused approach to determine which would provide the best experience for the users.  We plan to look to the vast research conducted in musical haptics as the starting point. One of the goals for our design is to create a mapping process that can combine audio inputs – such as animal and environmental noises – with other relevant information to provide the user with a meaningful interaction.
+Vibroraptile is a vibrotactile display that maps auditory signals from a nature exhibit to give visitors the ability to not only see and hear, but also feel otherwise untouchable animals.
+Touch is a crucial modality when designing a tool that is inclusive for all populations, including those with disabilities or impairments; furthermore, young visitors who cannot read and visitors who do not speak the language used in the exhibit are unable to gain insight from written information and so can benefit from the addition of haptics. We believe Vibroraptile would be a useful addition to natural history museums, zoos, aquariums, national parks, and animal sanctuaries. 
+For our submission, we simulated a regional exhibit (northeastern North America) by showcasing a day in the life of a blue jay family. With the addition of curated haptics effects, visitors are able to "touch" the animals they hear in our audio soundscape, such as blue jays, mourning doves, chipmunks, woodpeckers, coyotes, and a hawk.
 
 
 
