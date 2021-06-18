@@ -38,7 +38,7 @@ Find more information on her [website](https://linneakirby.com/).
 
 ### Yaxuan Li
 
-![yaxuan](https://user-images.githubusercontent.com/36145675/122504784-f8d43e00-cfc8-11eb-8a27-7b6281eb4871.jpg)
+<img alt="Name's picture" src="images/portraits/YaxuanLi.jpg" width="100px" height="auto"/>
 
 
 Yaxuan is a master's student in Electrical Engineering at McGill University, under the supervision of Dr. Jeremy Cooperstock at the Shared Reality Lab. Her research focus on developing haptics authoring algorithm. She has experience in haptics authoring, coding, and embedded system.
