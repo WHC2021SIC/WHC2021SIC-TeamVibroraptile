@@ -1,0 +1,228 @@
+#N canvas 2 132 635 559 10;
+#X obj 46 185 hradio 60 1 0 8 empty empty empty 0 -8 0 10 -262144 -1
+-1 1;
+#X obj 45 311 hradio 60 1 0 5 empty empty empty 0 -8 0 10 -262144 -1
+-1 1;
+#X obj 417 311 hradio 60 1 0 2 empty empty empty 0 -8 0 10 -262144
+-1 -1 1;
+#X text 287 161 Cardinal;
+#X text 358 160 Robin;
+#X text 462 163 Woodpecker;
+#X text 416 162 Hawk;
+#X text 492 289 Bees;
+#X text 380 290 Grasshoppers;
+#X text 40 287 Chipmunk;
+#X text 118 285 Deer;
+#X text 162 286 Squirrel;
+#X text 233 287 Coyote;
+#X text 289 286 Raccoon;
+#X text 195 37 Training Application;
+#X text 101 58 You can use this application to familiarize yourself
+with the different haptic cues for each annimal. Simple click on one
+of the buttons to feel the associated haptic effect;
+#N canvas 383 233 873 453 bird 0;
+#X obj 90 214 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144 -1
+-1;
+#X obj 90 156 select 1;
+#X obj 173 159 select 2;
+#X obj 274 161 select 3;
+#X obj 360 162 select 4;
+#X obj 173 189 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj 275 188 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj 365 212 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj 449 164 select 5;
+#X obj 546 164 select 6;
+#X obj 644 165 select 7;
+#X obj 11 155 select 0;
+#X obj 16 215 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144 -1
+-1;
+#X obj 451 209 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj 550 209 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj 639 208 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj 15 295 readsf~;
+#X obj 86 323 readsf~;
+#X obj 176 243 readsf~;
+#X obj 271 265 readsf~;
+#X obj 343 289 readsf~;
+#X obj 447 308 readsf~;
+#X obj 510 304 readsf~;
+#X obj 637 315 readsf~;
+#X obj 240 108 inlet;
+#X obj 9 355 dac~ 1 2 3 4 5 6 7 8;
+#X msg 13 262 open train/bird/papaJay_hap.wav \, 1;
+#X msg 173 215 open train/bird/babyJay_hap.wav \, 1;
+#X msg 84 292 open train/bird/mamaJay_hap.wav \, 1;
+#X msg 273 241 open train/bird/dove_hap.wav \, 1;
+#X msg 350 267 open train/bird/cardinal_hap.wav \, 1;
+#X msg 511 240 open train/bird/hawk_hap.wav \, 1;
+#X msg 448 287 open train/bird/robin_hap.wav \, 1;
+#X msg 634 264 open train/bird/woodpecker_hap.wav \, 1;
+#X obj 78 388 dac~ 1 2 3 4 5 6 7 8;
+#X obj 169 356 dac~ 1 2 3 4 5 6 7 8;
+#X obj 265 387 dac~ 1 2 3 4 5 6 7 8;
+#X obj 324 356 dac~ 1 2 3 4 5 6 7 8;
+#X obj 429 394 dac~ 1 2 3 4 5 6 7 8;
+#X obj 512 360 dac~ 1 2 3 4 5 6 7 8;
+#X obj 615 390 dac~ 1 2 3 4 5 6 7 8;
+#X obj 727 164 select 8;
+#X obj 728 193 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj 719 319 readsf~;
+#X obj 733 359 dac~ 1 2 3 4 5 6 7 8;
+#X msg 718 296 open train/bird/mamaJay_hawk_hap.wav \, 1;
+#X connect 0 0 28 0;
+#X connect 1 0 0 0;
+#X connect 2 0 5 0;
+#X connect 3 0 6 0;
+#X connect 4 0 7 0;
+#X connect 5 0 27 0;
+#X connect 6 0 29 0;
+#X connect 7 0 30 0;
+#X connect 8 0 13 0;
+#X connect 9 0 14 0;
+#X connect 10 0 15 0;
+#X connect 11 0 12 0;
+#X connect 12 0 26 0;
+#X connect 13 0 32 0;
+#X connect 14 0 31 0;
+#X connect 15 0 33 0;
+#X connect 16 0 25 1;
+#X connect 16 0 25 3;
+#X connect 17 0 34 1;
+#X connect 17 0 34 3;
+#X connect 18 0 35 0;
+#X connect 18 0 35 1;
+#X connect 18 0 35 2;
+#X connect 18 0 35 3;
+#X connect 18 0 35 4;
+#X connect 19 0 36 5;
+#X connect 20 0 37 5;
+#X connect 21 0 38 1;
+#X connect 21 0 38 0;
+#X connect 22 0 39 1;
+#X connect 22 0 39 2;
+#X connect 22 0 39 3;
+#X connect 23 0 40 0;
+#X connect 23 0 40 4;
+#X connect 24 0 11 0;
+#X connect 24 0 1 0;
+#X connect 24 0 2 0;
+#X connect 24 0 3 0;
+#X connect 24 0 4 0;
+#X connect 24 0 8 0;
+#X connect 24 0 9 0;
+#X connect 24 0 10 0;
+#X connect 24 0 41 0;
+#X connect 26 0 16 0;
+#X connect 27 0 18 0;
+#X connect 28 0 17 0;
+#X connect 29 0 19 0;
+#X connect 30 0 20 0;
+#X connect 31 0 22 0;
+#X connect 32 0 21 0;
+#X connect 33 0 23 0;
+#X connect 41 0 42 0;
+#X connect 42 0 45 0;
+#X connect 43 0 44 1;
+#X connect 43 0 44 2;
+#X connect 43 0 44 3;
+#X connect 45 0 43 0;
+#X restore 483 246 pd bird;
+#X text 46 148 Papa Bluejay;
+#X text 112 151 Mama Bluejay;
+#X text 172 147 Baby Bluejay;
+#X text 232 147 Mourning Dove;
+#N canvas 368 256 665 409 mammal 0;
+#X obj 90 122 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144 -1
+-1;
+#X obj 90 64 select 1;
+#X obj 173 67 select 2;
+#X obj 274 69 select 3;
+#X obj 360 70 select 4;
+#X obj 173 121 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj 278 120 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj 365 120 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj 11 63 select 0;
+#X obj 16 123 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144 -1
+-1;
+#X obj 24 204 readsf~;
+#X obj 96 219 readsf~;
+#X obj 198 217 readsf~;
+#X obj 279 220 readsf~;
+#X obj 384 219 readsf~;
+#X obj 70 22 inlet;
+#X msg 383 160 open train/mammal/raccoon_hap.wav \, 1;
+#X msg 174 140 open train/mammal/squirrel_hap.wav \, 1;
+#X msg 94 188 open train/mammal/deer_hap.wav \, 1;
+#X msg 351 187 open train/mammal/coyote_hap.wav \, 1;
+#X obj 31 305 dac~ 1 2 3 4 5 6 7 8;
+#X obj 56 269 dac~ 1 2 3 4 5 6 7 8;
+#X obj 201 304 dac~ 1 2 3 4 5 6 7 8;
+#X obj 263 272 dac~ 1 2 3 4 5 6 7 8;
+#X obj 391 304 dac~ 1 2 3 4 5 6 7 8;
+#X msg 14 161 open train/mammal/chipmunk_hap.wav \, 1;
+#X connect 0 0 18 0;
+#X connect 1 0 0 0;
+#X connect 2 0 5 0;
+#X connect 3 0 6 0;
+#X connect 4 0 7 0;
+#X connect 5 0 17 0;
+#X connect 6 0 19 0;
+#X connect 7 0 16 0;
+#X connect 8 0 9 0;
+#X connect 9 0 25 0;
+#X connect 10 0 20 0;
+#X connect 10 0 20 1;
+#X connect 10 0 20 2;
+#X connect 11 0 21 5;
+#X connect 12 0 22 0;
+#X connect 12 0 22 1;
+#X connect 13 0 23 5;
+#X connect 14 0 24 5;
+#X connect 15 0 8 0;
+#X connect 15 0 1 0;
+#X connect 15 0 2 0;
+#X connect 15 0 3 0;
+#X connect 15 0 4 0;
+#X connect 16 0 14 0;
+#X connect 17 0 12 0;
+#X connect 18 0 11 0;
+#X connect 19 0 13 0;
+#X connect 25 0 10 0;
+#X restore 288 373 pd mammal;
+#N canvas 371 306 845 446 insect 0;
+#X obj 90 122 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144 -1
+-1;
+#X obj 90 64 select 1;
+#X obj 11 63 select 0;
+#X obj 16 123 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144 -1
+-1;
+#X obj 17 204 readsf~;
+#X obj 177 200 readsf~;
+#X obj 70 22 inlet;
+#X obj 197 301 dac~ 1 2 3 4 5 6 7 8;
+#X msg 14 161 open train/insect/bee_hap.wav \, 1;
+#X msg 175 110 open train/insect/grasshopper_hap.wav \, 1;
+#X connect 0 0 9 0;
+#X connect 1 0 0 0;
+#X connect 2 0 3 0;
+#X connect 3 0 8 0;
+#X connect 4 0 7 5;
+#X connect 5 0 7 5;
+#X connect 6 0 2 0;
+#X connect 6 0 1 0;
+#X connect 8 0 4 0;
+#X connect 9 0 5 0;
+#X restore 480 372 pd insect;
+#X connect 0 0 16 0;
+#X connect 1 0 21 0;
+#X connect 2 0 22 0;
