@@ -149,7 +149,29 @@ Made with [drawio-desktop](https://github.com/jgraph/drawio-desktop/) (online ve
 SIC chairs would like to thank Evan Pezent, Zane A. Zook and Marcia O'Malley from [MAHI Lab](http://mahilab.rice.edu) at Rice University for having distributed to them 2 [Syntacts](https://www.syntacts.org) kits for the [IROS 2020 Intro to Haptics for XR Tutorial](http://iros-haptics-tutorial.org/). 
 SIC co-chair Christian Frisson would like to thank Edu Meneses and Johnty Wang from [IDMIL](http://idmil.org) at McGill University for their recommendations on Raspberry Pi hats for audio and sensors.
 
-Vibroraptile would like to thank the Macaulay Library at The Cornell Lab of Ornithology and the United States National Parks Service at Rocky Mountain, Yellowstone, and Yosemite for the use of their audio libraries. We would also like to thank Linnea's mother Colleen for allowing Linnea to take pictures of animals in her back yard.
+### Media Attrubution
+
+Vibroraptile would like to thank the United States National Parks Service at Rocky Mountain, Yellowstone, and Yosemite for the use of their audio libraries. We would also like to thank the Macaulay Library at The Cornell Lab of Ornithology for the use of the following audio clips:
+
+- Wil Hershberger / Macaulay Library at the Cornell Lab of Ornithology (ML94227)
+- Mary Hirshfeld / Macaulay Library at the Cornell Lab of Ornithology (ML227583)
+- James McNamara / Macaulay Library at the Cornell Lab of Ornithology (ML85588241)
+- Paul Marvin / Macaulay Library at the Cornell Lab of Ornithology (ML97153371)
+- Andrea L. Priori / Macaulay Library at the Cornell Lab of Ornithology (ML126359)
+- Brad Walker / Macaulay Library at the Cornell Lab of Ornithology (ML521435)
+- Wil Hershberger / Macaulay Library at the Cornell Lab of Ornithology (ML84793)
+- Marcy Ashley-Selleck / Macaulay Library at the Cornell Lab of Ornithology (ML104609081)
+- John Kirk / Macaulay Library at the Cornell Lab of Ornithology (ML239378491)
+- Gregory Budney / Macaulay Library at the Cornell Lab of Ornithology (ML104567)
+- Wil Hershberger / Macaulay Library at the Cornell Lab of Ornithology (ML274506)
+- Brad Walker / Macaulay Library at the Cornell Lab of Ornithology (ML305836)
+- Matthew Sabourin / Macaulay Library at the Cornell Lab of Ornithology (ML317149221)
+- Sean Smith / Macaulay Library at the Cornell Lab of Ornithology (ML318081001)
+- Cerrie Mendoza / Macaulay Library at the Cornell Lab of Ornithology (ML330921641)
+- Brad Walker / Macaulay Library at the Cornell Lab of Ornithology (ML272833)
+- Bill Schmoker / Macaulay Library at the Cornell Lab of Ornithology (ML246480081)
+
+Finally, we would like to thank Linnea's mother Colleen for allowing Linnea to take pictures of animals in her back yard.
 
 ## License
 
