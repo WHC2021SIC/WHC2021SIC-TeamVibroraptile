@@ -140,6 +140,7 @@ Made with [drawio-desktop](https://github.com/jgraph/drawio-desktop/) (online ve
 #### Software
 
 <!-- Describe your software components -->
+We design the haptic patterns with Syntacts python API for the audio files of animals. For syncronizing the haptics and audio files, we use Audicity to modify them. Moreover, we use several haptic components from [VibViz](https://www.cs.ubc.ca/~seifi/VibViz/main.html).
 
 
 ## Acknowledgements
