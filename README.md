@@ -2,7 +2,7 @@
 
 <!-- Replace Project Template by your team name in title and description -->
 
-Project Template for the IEEE World Haptics Conference 2021 Student Innovation Challenge
+Vibroraptile for the IEEE World Haptics Conference 2021 Student Innovation Challenge
 
 https://2021.worldhaptics.org/sic/
 
@@ -148,6 +148,8 @@ Made with [drawio-desktop](https://github.com/jgraph/drawio-desktop/) (online ve
 
 SIC chairs would like to thank Evan Pezent, Zane A. Zook and Marcia O'Malley from [MAHI Lab](http://mahilab.rice.edu) at Rice University for having distributed to them 2 [Syntacts](https://www.syntacts.org) kits for the [IROS 2020 Intro to Haptics for XR Tutorial](http://iros-haptics-tutorial.org/). 
 SIC co-chair Christian Frisson would like to thank Edu Meneses and Johnty Wang from [IDMIL](http://idmil.org) at McGill University for their recommendations on Raspberry Pi hats for audio and sensors.
+
+Vibroraptile would like to thank the Macaulay Library at The Cornell Lab of Ornithology and the United States National Parks Service at Rocky Mountain, Yellowstone, and Yosemite for the use of their audio libraries. We would also like to thank Linnea's mother Colleen for allowing Linnea to take pictures of animals in her back yard.
 
 ## License
 
