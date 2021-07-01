@@ -128,13 +128,14 @@ Required materials:
 
 using the scissors cut out a rectangular piece roughly 20cm x 10cm.
 place your dominant hand on the cardboard sheetand lighlty trace your hand 
-Finally position the actuaotrs like this: 
-<!-- Insert positioning guide -->
+Finally position the actuaotrs so that one actuator touches each finger and one makes contact with the palm. 
 to clean up the wiring punch any hole you need and tape the wiring as you see fit.
 ##### Wiring
 1) connect the actuators to syntacts board 
 2) connect the 4 aux cables from the audio injector octo sound card to the syntacts board 
 3) connect the raspberry pi to power 
+
+<img alt="Wiring Diagram" src="images/architecture/SIC_wiring.jpg" width="100px" height="auto"/>
 <!-- Feel free to remove or adapt the following explanation once you have understood its potential implications for your project. -->
 
 <!-- We use the SparkFun Qwiic system to rapidly and remotely prototype sensors without much soldering. Qwiic uses the I2C communication protocol with addresses assigned per board model.
