@@ -116,24 +116,37 @@ For our submission, we simulated a regional exhibit (northeastern North America)
 
 <!-- Describe your hardware components -->
 
-Syntacts 8 channel board, vibrotactile actuators, Raspberry Pi, Proximity Sensors
+Syntacts 8 channel board, 6 vibrotactile actuators, Raspberry Pi, cardboard
 
 **insert picture here of hardware used **
+### Making the tactile display
+Required materials:
+- cardboard 
+- scissors
+- pencil 
+- glue (optional) 
 
-##### Sensors wiring
-
+using the scissors cut out a rectangular piece roughly 20cm x 10cm.
+place your dominant hand on the cardboard sheetand lighlty trace your hand 
+Finally position the actuaotrs like this: 
+<!-- Insert positioning guide -->
+to clean up the wiring punch any hole you need and tape the wiring as you see fit.
+##### Wiring
+1) connect the actuators to syntacts board 
+2) connect the 4 aux cables from the audio injector octo sound card to the syntacts board 
+3) connect the raspberry pi to power 
 <!-- Feel free to remove or adapt the following explanation once you have understood its potential implications for your project. -->
 
-We use the SparkFun Qwiic system to rapidly and remotely prototype sensors without much soldering. Qwiic uses the I2C communication protocol with addresses assigned per board model.
+<!-- We use the SparkFun Qwiic system to rapidly and remotely prototype sensors without much soldering. Qwiic uses the I2C communication protocol with addresses assigned per board model.
 Our Qwiic-based architectures may require:
 - 1 Qwiic MUX I2C multiplexer board per group identical sensor/board model (example: needed by 2 flex finger boards in the figures below)
 - 1 Qwiic ADC board per group of 4 sensors that are not implemented as Qwiic boards (example: needed by 4 FSRs sensors in the figures below)
-
-<!-- Adapt this sensor architecture, covering all possible sensors accross all teams, to your team. -->
+-->
+<!-- Adapt this sensor architecture, covering all possible sensors accross all teams, to your team. 
 
 ![Sensor Configuration](images/architecture/sensor-configuration.svg)
 
-Made with [drawio-desktop](https://github.com/jgraph/drawio-desktop/) (online version: [diagrams.net](https://www.diagrams.net/)).
+Made with [drawio-desktop](https://github.com/jgraph/drawio-desktop/) (online version: [diagrams.net](https://www.diagrams.net/)).-->
 
 <!-- see: https://www.diagrams.net/blog/embed-diagrams-github-markdown -->
 
