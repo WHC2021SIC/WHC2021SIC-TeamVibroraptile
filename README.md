@@ -135,7 +135,7 @@ to clean up the wiring punch any hole you need and tape the wiring as you see fi
 2) connect the 4 aux cables from the audio injector octo sound card to the syntacts board 
 3) connect the raspberry pi to power 
 
-<img alt="Wiring Diagram" src="images/architecture/SIC_wiring.jpg" width="100px" height="auto"/>
+<img alt="Wiring Diagram" src="images/architecture/SIC_wiring.png" width="100px" height="auto"/>
 <!-- Feel free to remove or adapt the following explanation once you have understood its potential implications for your project. -->
 
 <!-- We use the SparkFun Qwiic system to rapidly and remotely prototype sensors without much soldering. Qwiic uses the I2C communication protocol with addresses assigned per board model.
