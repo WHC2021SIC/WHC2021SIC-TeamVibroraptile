@@ -131,11 +131,13 @@ place your dominant hand on the cardboard sheetand lighlty trace your hand
 Finally position the actuaotrs so that one actuator touches each finger and one makes contact with the palm. 
 to clean up the wiring punch any hole you need and tape the wiring as you see fit.
 ##### Wiring
-1) connect the actuators to syntacts board 
-2) connect the 4 aux cables from the audio injector octo sound card to the syntacts board 
-3) connect the raspberry pi to power 
+1) Using the diagram below connect the actuators and speakers to syntacts board 
 
 <img alt="Wiring Diagram" src="images/architecture/SIC_wiring.png" width="100px" height="auto"/>
+
+2) Connect the 4 aux cables from the audio injector octo sound card to the syntacts board 
+3) Connet the power cable of the Syntacts board into one of the USB ports on the Raspberry Pi
+4) Finally, connect the raspberry pi to power 
 <!-- Feel free to remove or adapt the following explanation once you have understood its potential implications for your project. -->
 
 <!-- We use the SparkFun Qwiic system to rapidly and remotely prototype sensors without much soldering. Qwiic uses the I2C communication protocol with addresses assigned per board model.
@@ -155,6 +157,10 @@ Made with [drawio-desktop](https://github.com/jgraph/drawio-desktop/) (online ve
 
 <!-- Describe your software components -->
 We design the haptic patterns with Syntacts python API for the audio files of animals. For syncronizing the haptics and audio files, we use Audicity to modify them. Moreover, we use several haptic components from [VibViz](https://www.cs.ubc.ca/~seifi/VibViz/main.html).
+
+To run the familiarization application simply open the Training.pd patch
+
+When you are ready to run the application open and execute the Vibroraptile.py file.  
 
 
 ## Acknowledgements
