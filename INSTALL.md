@@ -8,7 +8,7 @@ Install dependencies:
 ```
 sudo rpi-update
 ```
-Install the soundcard following the steps [here] (https://github.com/Audio-Injector/Octo)
+Install the soundcard following the steps [here](https://github.com/Audio-Injector/Octo/)
 
 Install puredata:
 
