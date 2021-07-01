@@ -127,7 +127,7 @@ Required materials:
 - glue (optional) 
 
 using the scissors cut out a rectangular piece roughly 20cm x 10cm.
-place your dominant hand on the cardboard sheetand lighlty trace your hand 
+place your dominant hand on the cardboard sheet and lighlty trace your hand 
 Finally position the actuaotrs so that one actuator touches each finger and one makes contact with the palm. 
 to clean up the wiring punch any hole you need and tape the wiring as you see fit.
 ##### Wiring
