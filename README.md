@@ -118,7 +118,7 @@ For our submission, we simulated a regional exhibit (northeastern North America)
 
 Syntacts 8 channel board, 6 vibrotactile actuators, Raspberry Pi, cardboard
 
-<img alt="Hardware src="images/architecture/hardware.jpg" width="100px" height="auto"/>
+<img alt="Hardware" src="images/architecture/hardware.jpg" width="auto" height="auto"/>
 
 ### Making the tactile display
 Required materials:
