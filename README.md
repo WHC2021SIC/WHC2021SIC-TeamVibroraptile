@@ -113,6 +113,8 @@ For our submission, we simulated a regional exhibit (northeastern North America)
 
 https://user-images.githubusercontent.com/14114630/124215954-14f4d680-dac3-11eb-8f63-76440e028642.mp4
 
+Introductory video can also be found [here](https://youtu.be/vIotQR7r2AQ).
+
 ### Documentation
 
 #### Hardware
