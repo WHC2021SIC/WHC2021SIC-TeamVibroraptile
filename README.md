@@ -109,6 +109,8 @@ Touch is a crucial modality when designing a tool that is inclusive for all popu
 For our submission, we simulated a regional exhibit (northeastern North America) by showcasing a day in the life of a blue jay family. With the addition of curated haptics effects, visitors are able to "touch" the animals they hear in our audio soundscape, such as blue jays, mourning doves, chipmunks, woodpeckers, coyotes, and a hawk.
 
 
+## Introduction
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vIotQR7r2AQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Documentation
 
