@@ -115,29 +115,35 @@ For our submission, we simulated a regional exhibit (northeastern North America)
 #### Hardware
 
 <!-- Describe your hardware components -->
-
-Syntacts 8 channel board, 6 vibrotactile actuators, Raspberry Pi, cardboard
+Required hardware:
+- Syntacts 8 channel board
+- 6 vibrotactile actuators
+- Raspberry Pi
+- Audio Injector Octo sound card
+- cardboard
 
 <img alt="Hardware" src="images/architecture/hardware.jpg" width="700px" height="auto"/>
 
-### Making the tactile display
-Required materials:
-- cardboard 
+##### Assembling the tactile display
+Additional tools and materials:
 - scissors
-- pencil 
-- glue (optional) 
+- pencil
+- glue (optional)
+- hole punch (optional)
+- tape (optional)
 
 1) Using the scissors, cut out a rectangular cardboard piece roughly 20cm x 10cm.
 2) Place one hand on the cardboard sheet and lightly trace your hand.
-3) Finally, position the actuators so that one actuator touches each finger and one makes contact with the palm. 
-4) To clean up the wiring, punch any holes you need and tape the wiring as you see fit.
+3) Position the actuators so that one actuator touches each finger and one makes contact with the palm. 
+4) If the sticky backs of the actuators is not strong enough to secure them, use glue for extra support.
+5) (Optional) To clean up the wiring, punch any holes you need and tape the wiring as you see fit.
 
 ##### Wiring
 1) Using the diagram below as a guide, connect the actuators and speakers to the Syntacts board.
 
 <img alt="Wiring Diagram" src="images/architecture/SIC_wiring.png" width="800px" height="auto"/>
 
-2) Connect the 4 aux cables from the audio injector octo sound card to the Syntacts board.
+2) Connect the 4 aux cables from the Audio Injector Octo sound card to the Syntacts board.
 3) Connet the power cable of the Syntacts board into one of the USB ports on the Raspberry Pi.
 4) Finally, connect the Raspberry Pi to power.
 <!-- Feel free to remove or adapt the following explanation once you have understood its potential implications for your project. -->
