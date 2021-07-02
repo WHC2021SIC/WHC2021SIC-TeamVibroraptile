@@ -94,9 +94,10 @@ Once this documentation becomes very comprehensive, the main file can be split i
 
 - [Abstract](#abstract)
 - [Introduction](#introduction)
-  * [Documentation](#documentation)
+- [Documentation](#documentation)
     + [Hardware](#hardware)
-      - [Sensors wiring](#sensors-wiring)
+      * [Assembling the tactile display](#assembling-the-tactile-display)
+      * [Wiring](#wiring)
     + [Software](#software)
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
