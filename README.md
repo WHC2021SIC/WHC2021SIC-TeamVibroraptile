@@ -159,6 +159,8 @@ Made with [drawio-desktop](https://github.com/jgraph/drawio-desktop/) (online ve
 <!-- Describe your software components -->
 We design the haptic patterns with Syntacts python API for the audio files of animals. For syncronizing the haptics and audio files, we use Audicity to modify them. Moreover, we use several haptic components from [VibViz](https://www.cs.ubc.ca/~seifi/VibViz/main.html).
 
+See [INSTALL.md](INSTALL.md). to install the required dependencies 
+
 To run the familiarization application simply open the Training.pd patch
 
 When you are ready to run the application open and execute the Vibroraptile.py file.  
