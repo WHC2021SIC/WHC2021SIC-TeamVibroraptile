@@ -120,6 +120,7 @@ Required hardware:
 - 6 vibrotactile actuators
 - Raspberry Pi
 - Audio Injector Octo sound card
+- Male-female Jumper Wires (as necessary) 
 - cardboard
 
 <img alt="Hardware" src="images/architecture/hardware.jpg" width="700px" height="auto"/>
