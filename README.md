@@ -127,13 +127,13 @@ Required materials:
 - pencil 
 - glue (optional) 
 
-1) Using the scissors cut out a rectangular piece roughly 20cm x 10cm.
-2) Place your dominant hand on the cardboard sheet and lighlty trace your hand.
+1) Using the scissors, cut out a rectangular cardboard piece roughly 20cm x 10cm.
+2) Place one hand on the cardboard sheet and lightly trace your hand.
 3) Finally, position the actuators so that one actuator touches each finger and one makes contact with the palm. 
-4) To clean up the wiring, punch any hole you need and tape the wiring as you see fit.
+4) To clean up the wiring, punch any holes you need and tape the wiring as you see fit.
 
 ##### Wiring
-1) Using the diagram below, connect the actuators and speakers to the Syntacts board.
+1) Using the diagram below as a guide, connect the actuators and speakers to the Syntacts board.
 
 <img alt="Wiring Diagram" src="images/architecture/SIC_wiring.png" width="800px" height="auto"/>
 
