@@ -110,7 +110,8 @@ For our submission, we simulated a regional exhibit (northeastern North America)
 
 
 ## Introduction
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vIotQR7r2AQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+https://user-images.githubusercontent.com/14114630/124215954-14f4d680-dac3-11eb-8f63-76440e028642.mp4
 
 ### Documentation
 
