@@ -165,6 +165,8 @@ Made with [drawio-desktop](https://github.com/jgraph/drawio-desktop/) (online ve
 #### Software
 
 <!-- Describe your software components -->
+Note: All necessary files can be found in the Vibroraptile folder.
+
 We designed the haptic patterns for the audio files of the animals with the Syntacts Python API. We used Audacity to modify and synchronize the haptics and audio files. Moreover, we used several haptic components from [VibViz](https://www.cs.ubc.ca/~seifi/VibViz/main.html).
 
 See [INSTALL.md](INSTALL.md) to install the required dependencies.
