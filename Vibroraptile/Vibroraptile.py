@@ -4,7 +4,7 @@ import time
 
 import subprocess
 
-pdpatch = "/home/pi/Documents/Pd/Vibroraptile/pipeline.pd"
+pdpatch = "/home/pi/Documents/Pd/Vibroraptile/Haptics/pipeline.pd"
 pdpath = '/usr/lib/puredata/tcl/pd-gui.tcl'
 
 subprocess.Popen([pdpath, pdpatch])
