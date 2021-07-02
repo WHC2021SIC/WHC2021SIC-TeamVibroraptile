@@ -171,7 +171,7 @@ See [INSTALL.md](INSTALL.md) to install the required dependencies.
 
 To run the familiarization application, simply open the Training.pd patch.
 
-When you are ready to run the application, open and execute the Vibroraptile.py file.  
+When you are ready to play the story, open and execute the Vibroraptile.py file.  
 
 
 ## Acknowledgements
