@@ -118,7 +118,7 @@ For our submission, we simulated a regional exhibit (northeastern North America)
 
 Syntacts 8 channel board, 6 vibrotactile actuators, Raspberry Pi, cardboard
 
-<img alt="Hardware" src="images/architecture/hardware.jpg" width="auto" height="auto"/>
+<img alt="Hardware" src="images/architecture/hardware.jpg" width="700px" height="auto"/>
 
 ### Making the tactile display
 Required materials:
@@ -134,7 +134,7 @@ to clean up the wiring punch any hole you need and tape the wiring as you see fi
 ##### Wiring
 1) Using the diagram below connect the actuators and speakers to syntacts board 
 
-<img alt="Wiring Diagram" src="images/architecture/SIC_wiring.png" width="auto" height="auto"/>
+<img alt="Wiring Diagram" src="images/architecture/SIC_wiring.png" width="800px" height="auto"/>
 
 2) Connect the 4 aux cables from the audio injector octo sound card to the syntacts board 
 3) Connet the power cable of the Syntacts board into one of the USB ports on the Raspberry Pi
